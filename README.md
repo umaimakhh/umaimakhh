@@ -7,7 +7,7 @@ As a Software engineer, Data Science & Machine Learning (ML) Engineer, I have en
 - :mortar_board: Graduate in Data Science 
 - 🌱 I’m currently learning Azure Cloud :thought_balloon:
 - :briefcase: My professional side: https://www.linkedin.com/in/umaimakhurshidahmad/
-- 📫 My fun side - How to reach me: https://www.instagram.com/the_data_shebang/
+- :beers: :high_brightness: My fun side - How to reach me: https://www.instagram.com/the_data_shebang/
 
 <!--
 **umaimakhh/umaimakhh** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
