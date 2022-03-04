@@ -1,4 +1,4 @@
-# Hi, I'm Umaima :raising_hand: 👋
+# Hi, I'm Umaima :octocat: 👋
 
 As a Software engineer, Data Science & Machine Learning (ML) Engineer, I have enjoyed the challenges of solving real-world data-driven business problems from problem formalization to technical solution design, development, and deployment, partnering with several key lines of business and functions globally. I have gained extensive technical and project/product management skills and developed valuable team/stakeholder management capabilities by working cross-functionally with analytics, engineering, and business engagement teams. 
 
