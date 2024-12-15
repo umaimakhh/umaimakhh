@@ -8,6 +8,7 @@ As a Software engineer, Data Science & Machine Learning (ML) Engineer, I have en
 - 🌱 I’m currently preparing for my AWS certification for Solutions Architect and the newly launched ML Engineer Assosiate   :thought_balloon:
 - :briefcase: My professional side: https://www.linkedin.com/in/umaimakhurshidahmad/
 - :beers: :high_brightness:  - How to reach my fun side: https://www.instagram.com/the_data_shebang/
+- 👓: my nerdy side: https://medium.com/@umaimakhurshidahmad
 
 <!--
 **umaimakhh/umaimakhh** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
