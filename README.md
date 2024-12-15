@@ -4,7 +4,7 @@ As a Software engineer, Data Science & Machine Learning (ML) Engineer, I have en
 
 ### ✨ I am a firm believer that learning has no end; I learn something new every day! My goal is to expand my knowledge while also helping others from my knowledge pool, especially in data and technology. ✨
 
-- :mortar_board: Graduate in Data Science 
+- :mortar_board: Graduate in Data Science and 3 years into ML Engineering 
 - 🌱 I’m currently preparing for my AWS certification for Solutions Architect and the newly launched ML Engineer Assosiate   :thought_balloon:
 - :briefcase: My professional side: https://www.linkedin.com/in/umaimakhurshidahmad/
 - :beers: :high_brightness:  - How to reach my fun side: https://www.instagram.com/the_data_shebang/
